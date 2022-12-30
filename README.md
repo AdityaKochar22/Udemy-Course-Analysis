@@ -43,6 +43,13 @@ The Project provides data analytics insights of the Udemy courses of 4 selective
 
 
 
+## Conclusion
+<img width="1431" alt="Screenshot 2022-12-30 at 10 45 58 PM" src="https://user-images.githubusercontent.com/88288398/210097497-71cb96f5-dae8-4873-9e21-ae4ba220f217.png">
+
+
+
+
+
 
 
 
