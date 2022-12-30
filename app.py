@@ -1,5 +1,4 @@
-#Created By;- Yuvraj Saxena(E20CSE307)
-#and Aditya Kochar(E20CSE309)
+
 
 # Note: install all the libraries before running the program
 
