@@ -18,8 +18,7 @@ The Project provides data analytics insights of the Udemy courses of 4 selective
 - Consumer recommendation
 - Production Aspect <br />
  
-<img width="1432" alt="Screenshot 2022-12-29 at 4 29 07 PM" src="https://user-images.githubusercontent.com/88288398/210096601-bd487fa5-f735-49f0-a26a-f52b6d487cb9.png">
-
+<img width="1440" alt="Screenshot 2022-12-30 at 10 28 00 PM" src="https://user-images.githubusercontent.com/88288398/210096713-7aa5085e-8169-47d1-99f1-dbb99e4c8ddd.png">
 
 
 
