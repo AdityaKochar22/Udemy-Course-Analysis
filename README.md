@@ -1,6 +1,6 @@
 # Udemy-Course-Analysis
 
-The Project provides data analytics insights of the Udemy courses of 4 selective major domains (Business Finance, Graphic Design, Musical Instruments and Web Design) <br />
+The Project provides data analytics insights of the Udemy courses of 4 selective major domains (Business Finance, Graphic Design, Musical Instruments and Web Design) along with Graphs and Visuals to Support them, <br />
 
 ## We also provided different Options to Filter our Data :- 
 - Is the Course Paid or not (True or false)
